@@ -1,4 +1,4 @@
-# Bnagla-Newspaper-Headline-Thesis-Project Using Deep learning model LSTM, Bi-LSTM, Bi-GRU
+# Bnagla Newspaper Headline Classification Using Deep learning model LSTM, Bi-LSTM, Bi-GRU
 
 ## Technology Used:
 - Python
